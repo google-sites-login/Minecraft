@@ -4,4 +4,4 @@ Minecraft was made in 2009 by Markus Persson. It is a very successful game and t
 
 # Gameplay
 
-In the game you gather resources and build houses to survive. When night falls monsters come out and attack you.By default the world is first-person perspective, but players can change to third-person too.
+In the game you gather resources and build houses to survive. When night falls monsters come out and attack you.By default the world is first-person perspective, but players can change to third-person too. The world is infinite and there is allways new things to find, and new things to do.
