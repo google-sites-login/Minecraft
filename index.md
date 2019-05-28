@@ -34,9 +34,9 @@ Multiplayer in Minecraft is available through direct game-to-game multiplayer, L
 
 ### Versions
 
-- Java
-- Windows 10
-- XBox
-- PlayStation
-- Nintendo Switch
-- Raspberry Pi
+- Java [https://my.minecraft.net/en-us/store/minecraft/#register]
+- Windows 10 [https://www.microsoft.com/en-us/p/minecraft-for-windows-10/9nblggh2jhxj?activetab=pivot:overviewtab]
+- XBox [https://ebgames.com.au/xbox360-154513-Minecraft---Xbox-360-Edition-Xbox-360]
+- PlayStation [https://ebgames.com.au/ps4-201267-Minecraft-PlayStation-4-Edition-PlayStation-4]
+- Nintendo Switch [https://ebgames.com.au/nintendo-switch-217642-Minecraft---Switch-Edition-Nintendo-Switch]
+- Raspberry Pi [https://www.minecraft.net/en-us/edition/pi/]
